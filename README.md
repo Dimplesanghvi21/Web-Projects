@@ -1,1 +1,1 @@
-This contains projects related to web development /web designing 
+This is a flourists website which is developed using html and css
